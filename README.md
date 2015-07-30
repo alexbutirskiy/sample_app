@@ -1,4 +1,4 @@
-== Micle Hurtl tutorial's project
+== Michael Hurtl tutorial's project
 
 * Ruby version = 2.0.0
 
